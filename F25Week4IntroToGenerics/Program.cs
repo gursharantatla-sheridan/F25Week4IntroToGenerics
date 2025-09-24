@@ -1,0 +1,10 @@
+﻿namespace F25Week4IntroToGenerics
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
